@@ -6,7 +6,7 @@ OD20004,12-11-2024,Books,Novel,Delhi,2,4046.85,20,Delivered,Credit Card,Mobile A
 OD20005,25-09-2024,Electronics,Phone Cover,Tamil Nadu,4,7019.83,25,Delivered,Debit Card,Mobile App,21059.49
 OD20006,08-12-2024,Beauty,Hair Oil,Delhi,1,6151.88,15,Delivered,UPI,Mobile App,5229.1
 OD20007,25-12-2024,Beauty,Face Wash,Delhi,3,5229.96,25,Delivered,Debit Card,Mobile App,11767.41
-OD20008,31-01-2024,Books,Novel,Rajasthan,2,6180.63,5,Pending,COD,Mobile App,11743.2
+OD20008,31-01-2024,Books,Novel,Rajasthan,2,6180.63,10,Pending,COD,Mobile App,11743.2
 OD20009,08-08-2024,Books,Comic,Karnataka,5,2335.61,20,Delivered,Credit Card,Mobile App,9342.44
 OD20010,28-10-2024,Fashion,T-Shirt,Rajasthan,2,2212.56,0,Delivered,Wallet,Website,4425.12
 OD20011,22-07-2024,Beauty,Sunscreen,West Bengal,4,3243.84,25,Pending,UPI,Mobile App,9731.52
@@ -35,7 +35,7 @@ OD20033,18-12-2024,Books,Guide Book,Tamil Nadu,2,7862.16,15,Delivered,Debit Card
 OD20034,16-11-2024,Fashion,T-Shirt,Maharashtra,6,7056.86,20,Delivered,Debit Card,Mobile App,33872.93
 OD20035,04-04-2024,Home,Bedsheet,Rajasthan,2,2261.94,0,Delivered,UPI,Mobile App,4523.88
 OD20036,01-01-2024,Fashion,Jeans,Karnataka,3,3145.77,25,Delivered,Debit Card,Website,
-OD20037,20-07-2024,Fashion,Sneakers,Delhi,1,2502.22,10,Delivered,Wallet,Mobile App,2252.0
+OD20037,20-07-2024,Fashion,Sneakers,Delhi,1,2502.22,10,Delivered,Wallet,Mobile App,2252
 OD20038,25-05-2024,Home,Table Lamp,Karnataka,6,5006.85,5,Delivered,Wallet,Mobile App,28539.05
 OD20039,17-12-2024,Books,Diary,DELHI,5,6414.04,10,Delivered,COD,Website,28863.18
 OD20040,07-09-2024,Electronics,Phone Cover,UP,3,176.02,0,Pending,COD,Mobile App,528.06
@@ -45,7 +45,7 @@ OD20043,25-08-2024,Beauty,Perfume,Tamil Nadu,4,3810.76,0,Returned,COD,Website,
 OD20044,17-07-2024,Books,Guide Book,Tamil Nadu,2,7344.96,10,Delivered,Credit Card,Mobile App,13220.93
 OD20045,11-09-2024,Electronics,Smartwatch,UP,4,3243.53,5,Delivered,COD,Mobile App,12325.41
 OD20046,18-06-2024,Beauty,Perfume,Maharashtra,1,2697.7,15,Cancelled,Debit Card,Mobile App,2293.04
-OD20047,18-07-2024,Home,Bedsheet,West Bengal,5,749.75,20,Delivered,Credit Card,Mobile App,2999.0
+OD20047,18-07-2024,Home,Bedsheet,West Bengal,5,749.75,20,Delivered,Credit Card,Mobile App,2999
 OD20048,07-04-2024,Home,Table Lamp,Gujarat,3,6313.37,20,Delivered,Wallet,Mobile App,15152.09
 OD20049,18-08-2024,Electronics,Earbuds,WEST BENGAL,5,6058.44,10,Cancelled,Debit Card,Mobile App,27262.98
 OD20050,26-07-2024,Home,Cushion,Tamil Nadu,6,2023.52,25,Returned,Wallet,Mobile App,9105.84
@@ -173,7 +173,7 @@ OD20171,27-05-2024,Beauty,Hair Oil,Rajasthan,6,2918.06,15,Cancelled,COD,Mobile A
 OD20172,01-10-2024,Beauty,Perfume,Karnataka,3,6453.18,20,Returned,Wallet,Mobile App,15487.63
 OD20173,06-01-2024,Home,Wall Clock,West Bengal,1,522.42,25,Delivered,Wallet,Mobile App,391.81
 OD20174,21-01-2024,Beauty,Hair Oil,Gujarat,5,5458.38,25,Delivered,COD,Mobile App,20468.93
-OD20175,24-07-2024,Fashion,Sneakers,Rajasthan,4,6173.53,15,Pending,UPI,Mobile App,20990.0
+OD20175,24-07-2024,Fashion,Sneakers,Rajasthan,4,6173.53,15,Pending,UPI,Mobile App,20990
 OD20176,01-12-2024,Books,Notebook,Maharashtra,3,5565.61,20,Pending,Credit Card,Mobile App,13357.46
 OD20177,29-06-2024,Fashion,T-Shirt,Maharashtra,5,7950.93,0,Pending,UPI,Mobile App,39754.65
 OD20178,08-12-2024,Beauty,Face Wash,Delhi,1,1693.71,25,Returned,Credit Card,Mobile App,1270.28
@@ -267,7 +267,7 @@ OD20265,12-05-2024,Books,Notebook,Tamil Nadu,3,4457.54,10,Delivered,Debit Card,M
 OD20266,01-12-2024,Fashion,Jeans,UP,5,5599.41,10,Cancelled,UPI,Mobile App,25197.35
 OD20267,28-05-2024,Electronics,Power Bank,Maharashtra,4,2881.4,25,Delivered,UPI,Mobile App,8644.2
 OD20268,26-04-2024,Fashion,Sneakers,Tamil Nadu,5,7408.16,0,Returned,Debit Card,Website,37040.8
-OD20269,18-08-2024,Fashion,Jeans,Gujarat,4,2092.06,15,Delivered,COD,Website,7113.0
+OD20269,18-08-2024,Fashion,Jeans,Gujarat,4,2092.06,15,Delivered,COD,Website,7113
 OD20270,31-10-2024,Books,Novel,Karnataka,4,3771.97,0,Delivered,Wallet,Mobile App,15087.88
 OD20271,03-07-2024,Electronics,Smartwatch,KARNATAKA,2,5352.55,0,Delivered,Debit Card,Website,10705.1
 OD20272,19-03-2024,Electronics,Power Bank,Maharashtra,4,2273.18,0,Delivered,Debit Card,Mobile App,9092.72
@@ -295,7 +295,7 @@ OD20293,22-05-2024,Home,Bedsheet,Karnataka,5,3841.22,20,Delivered,Debit Card,Web
 OD20294,22-01-2024,Home,Table Lamp,Delhi,5,6639.17,10,Delivered,Wallet,Website,29876.26
 OD20295,06-06-2024,Books,Guide Book,Maharashtra,2,5211.46,0,Cancelled,COD,Mobile App,10422.92
 OD20296,30-12-2024,Home,Cushion,Karnataka,2,4324.57,20,Pending,COD,Website,6919.31
-OD20297,22-10-2024,Books,Novel,UP,4,3318.89,10,Pending,Credit Card,Website,11948.0
+OD20297,22-10-2024,Books,Novel,UP,4,3318.89,10,Pending,Credit Card,Website,11948
 OD20298,27-05-2024,Home,Bedsheet,West Bengal,2,5232.52,20,Returned,Wallet,Mobile App,8372.03
 OD20299,07-06-2024,Books,Notebook,UP,1,2973.97,0,Delivered,Credit Card,Website,2973.97
 OD20300,20-05-2024,Beauty,Lipstick,Rajasthan,5,613.94,25,returned,UPI,Mobile App,2302.28
@@ -333,7 +333,7 @@ OD20331,24-11-2024,Beauty,Perfume,UP,4,2213.93,0,Delivered,COD,Mobile App,8855.7
 OD20332,23-08-2024,Beauty,Face Wash,Maharashtra,5,5735.45,0,Cancelled,COD,Website,28677.25
 OD20333,16-05-2024,Electronics,Power Bank,Maharashtra,3,3634.76,10,Delivered,Wallet,Mobile App,9813.85
 OD20334,25-09-2024,Electronics,Earbuds,West Bengal,1,2031.94,5,Returned,COD,Mobile App,1930.34
-OD20335,20-02-2024,Electronics,Bluetooth Speaker,Gujarat,2,2352.94,15,Delivered,UPI,Website,4000.0
+OD20335,20-02-2024,Electronics,Bluetooth Speaker,Gujarat,2,2352.94,15,Delivered,UPI,Website,4000
 OD20336,12-09-2024,Beauty,Face Wash,UP,6,4898.69,15,Delivered,Debit Card,Mobile App,24983.32
 OD20337,11-02-2024,Fashion,T-Shirt,Rajasthan,4,1853.2,0,Delivered,Wallet,Mobile App,7412.8
 OD20338,13-12-2024,Electronics,Bluetooth Speaker,Delhi,2,248.99,25,Delivered,Credit Card,Mobile App,373.49
@@ -353,13 +353,13 @@ OD20351,15-02-2024,Electronics,Earbuds,Maharashtra,2,1316.64,15,Delivered,Debit 
 OD20352,24-03-2024,Electronics,Earbuds,Tamil Nadu,3,867.45,0,Pending,Wallet,Mobile App,2602.35
 OD20353,19-03-2024,Fashion,Kurti,DELHI,6,3469.12,10,Pending,UPI,Mobile App,18733.25
 OD20354,28-04-2024,Fashion,  Sneakers,Rajasthan,5,882.58,25,Returned,COD,Mobile App,3309.68
-OD20355,24-09-2024,Home,  Curtain,West Bengal,5,2755.0,0,Delivered,COD,Mobile App,13775.0
+OD20355,24-09-2024,Home,  Curtain,West Bengal,5,2755,0,Delivered,COD,Mobile App,13775
 OD20356,05-12-2024,Fashion,Kurti,Tamil Nadu,3,1180.14,0,Delivered,Debit Card,Mobile App,3540.42
 OD20357,29-01-2024,Home,Curtain,Tamil Nadu,5,2626.69,10,Delivered,Credit Card,Mobile App,11820.11
 OD20358,02-03-2024,Electronics,Power Bank,Gujarat,5,5789.15,15,Pending,UPI,Mobile App,24603.89
 OD20359,09-05-2024,Beauty,Hair Oil,Maharashtra,6,4181.41,25,Delivered,Wallet,Mobile App,18816.35
 OD20360,23-02-2024,Home,Curtain,DELHI,4,839.71,10,Delivered,COD,Website,3022.96
-OD20361,11-08-2024,Home,Bedsheet,Gujarat,5,822.75,20,Pending,Credit Card,Website,3291.0
+OD20361,11-08-2024,Home,Bedsheet,Gujarat,5,822.75,20,Pending,Credit Card,Website,3291
 OD20362,29-09-2024,Electronics,Smartwatch,Karnataka,5,6689.77,5,Delivered,UPI,Mobile App,31776.41
 OD20363,16-02-2024,Beauty,Sunscreen,Maharashtra,3,7552.2,20,Cancelled,COD,Mobile App,18125.28
 OD20364,24-02-2024,Fashion,Kurti,Rajasthan,5,2809.98,10,Delivered,Wallet,Mobile App,12644.91
@@ -391,7 +391,7 @@ OD20389,25-08-2024,Home,Wall Clock,Maharashtra,2,990.84,10,Returned,COD,Mobile A
 OD20390,16-08-2024,Beauty,Hair Oil,Tamil Nadu,2,3942.14,0,Pending,Debit Card,Website,7884.28
 OD20391,13-08-2024,Beauty,  Sunscreen,Delhi,5,6358.68,0,Cancelled,Wallet,Mobile App,31793.4
 OD20392,11-09-2024,Electronics,Phone Cover,Karnataka,2,5553.6,5,Pending,UPI,Mobile App,10551.84
-OD20393,05-12-2024,Beauty,Lipstick,West Bengal,4,2770.0,25,Returned,Debit Card,Mobile App,8310.0
+OD20393,05-12-2024,Beauty,Lipstick,West Bengal,4,2770,25,Returned,Debit Card,Mobile App,8310
 OD20394,11-06-2024,Books,Novel,Gujarat,6,6096.81,10,Returned,UPI,Mobile App,32922.77
 OD20395,12-02-2024,Electronics,Power Bank,West Bengal,5,3402.55,10,returned,Credit Card,Website,15311.48
 OD20396,06-11-2024,Beauty,Perfume,Maharashtra,4,3618.11,10,Delivered,Debit Card,Mobile App,13025.2
@@ -517,7 +517,7 @@ OD20515,24-06-2024,Home,Cushion,Delhi,4,7356.24,10,Returned,Debit Card,Website,2
 OD20516,18-01-2024,Fashion,Kurti,UP,2,5649.59,10,Delivered,UPI,Mobile App,10169.26
 OD20517,06-04-2024,Fashion,Sneakers,Rajasthan,1,5731.62,0,Delivered,Credit Card,Website,5731.62
 OD20518,11-07-2024,Books,Diary,Karnataka,2,2531.78,15,Cancelled,Debit Card,Website,4304.03
-OD20519,11-04-2024,Beauty,Hair Oil,UP,5,4095.6,0,Pending,UPI,Mobile App,20478.0
+OD20519,11-04-2024,Beauty,Hair Oil,UP,5,4095.6,0,Pending,UPI,Mobile App,20478
 OD20520,13-10-2024,Fashion,T-Shirt,UP,6,5192.17,15,Pending,COD,Mobile App,26480.07
 OD20521,03-06-2024,Beauty,Perfume,Gujarat,5,6671.41,10,Cancelled,Credit Card,Website,30021.35
 OD20522,06-11-2024,Electronics,Phone Cover,Delhi,2,273.98,25,Cancelled,COD,Mobile App,410.97
@@ -575,7 +575,7 @@ OD20573,01-01-2024,Fashion,  Sneakers,Rajasthan,4,709.91,0,Returned,Credit Card,
 OD20574,02-07-2024,Beauty,  Perfume,UP,6,5016.69,10,Delivered,Wallet,Website,27090.13
 OD20575,08-11-2024,Electronics,Smartwatch,Delhi,6,6499.15,0,Delivered,COD,Mobile App,38994.9
 OD20576,13-03-2024,Electronics,Phone Cover,Rajasthan,5,426.78,25,Delivered,Debit Card,Mobile App,1600.42
-OD20577,07-02-2024,Home,Bedsheet,Maharashtra,4,6545.75,0,Returned,UPI,Website,26183.0
+OD20577,07-02-2024,Home,Bedsheet,Maharashtra,4,6545.75,0,Returned,UPI,Website,26183
 OD20578,17-02-2024,Home,Bedsheet,West Bengal,5,6659.3,10,Cancelled,Wallet,Mobile App,
 OD20579,28-09-2024,Books,Diary,Karnataka,6,7427.63,0,Delivered,COD,Website,44565.78
 OD20580,13-09-2024,Home,Table Lamp,KARNATAKA,4,1713.64,10,Returned,COD,Mobile App,6169.1
@@ -608,7 +608,7 @@ OD20606,03-10-2024,Electronics,Earbuds,Karnataka,5,919.25,25,Delivered,Debit Car
 OD20607,19-06-2024,Fashion,Jeans,Delhi,3,1126.47,25,Delivered,Wallet,Mobile App,2534.56
 OD20608,09-02-2024,Books,Novel,Delhi,2,2208.01,10,Delivered,Wallet,Website,3974.42
 OD20609,10-11-2024,Fashion,Handbag,UP,4,6202.45,0,Delivered,Debit Card,Mobile App,24809.8
-OD20610,01-07-2024,Beauty,Sunscreen,West Bengal,4,7716.0,10,Delivered,Wallet,Mobile App,27777.6
+OD20610,01-07-2024,Beauty,Sunscreen,West Bengal,4,7716,10,Delivered,Wallet,Mobile App,27777.6
 OD20611,27-01-2024,Books,  Guide Book,Karnataka,5,6749.53,25,Delivered,Wallet,Mobile App,25310.74
 OD20612,28-02-2024,Beauty,Face Wash,Tamil Nadu,3,1176.46,0,Returned,Debit Card,Mobile App,3529.38
 OD20613,06-05-2024,Fashion,Jeans,Gujarat,3,708.9,0,Delivered,Debit Card,Mobile App,2126.7
@@ -819,7 +819,7 @@ OD20817,19-10-2024,Beauty,Lipstick,Rajasthan,6,2468.1,0,Delivered,COD,Website,14
 OD20818,26-08-2024,Home,Curtain,UP,5,463.71,0,Returned,Wallet,Mobile App,2318.55
 OD20819,07-11-2024,Books,Comic,Gujarat,4,1056.2,20,Delivered,COD,Mobile App,3379.84
 OD20820,12-11-2024,Home,Bedsheet,WEST BENGAL,5,3403.2,10,Returned,Wallet,Mobile App,15314.4
-OD20821,30-07-2024,Fashion,Jeans,UP,1,3435.56,10,Returned,UPI,Mobile App,3092.0
+OD20821,30-07-2024,Fashion,Jeans,UP,1,3435.56,10,Returned,UPI,Mobile App,3092
 OD20822,29-10-2024,Books,Comic,West Bengal,4,7538.9,15,Delivered,COD,Mobile App,25632.26
 OD20823,08-04-2024,Beauty,Perfume,Delhi,4,5651.96,0,Delivered,UPI,Website,22607.84
 OD20824,21-05-2024,Electronics,Earbuds,Gujarat,5,836.16,10,Pending,UPI,Website,3762.72
@@ -844,7 +844,7 @@ OD20842,22-06-2024,Books,Guide Book,Tamil Nadu,2,4279.48,20,Delivered,COD,Mobile
 OD20843,13-01-2024,Home,Table Lamp,Karnataka,1,1756.52,10,Delivered,UPI,Mobile App,1580.87
 OD20844,04-04-2024,Books,Guide Book,Tamil Nadu,1,1901.65,0,Delivered,UPI,Mobile App,1901.65
 OD20845,28-08-2024,Home,Cushion,Tamil Nadu,6,6998.89,5,Delivered,Debit Card,Mobile App,39893.67
-OD20846,17-07-2024,Books,Notebook,Gujarat,3,7588.75,20,Returned,COD,Website,18213.0
+OD20846,17-07-2024,Books,Notebook,Gujarat,3,7588.75,20,Returned,COD,Website,18213
 OD20847,19-12-2024,Home,Cushion,Gujarat,2,1848.44,10,Delivered,Wallet,Mobile App,3327.19
 OD20848,05-07-2024,Beauty,Hair Oil,Karnataka,2,7750.41,5,Delivered,Wallet,Website,14725.78
 OD20849,21-04-2024,Fashion,Handbag,UP,4,6883.6,0,Delivered,Credit Card,Mobile App,
@@ -858,7 +858,7 @@ OD20856,01-11-2024,Beauty,Lipstick,West Bengal,4,5270.33,10,Cancelled,COD,Mobile
 OD20857,05-11-2024,Home,Table Lamp,West Bengal,4,5326.71,20,Pending,COD,Mobile App,17045.47
 OD20858,31-08-2024,Fashion,Handbag,Maharashtra,1,1509.89,15,Delivered,UPI,Mobile App,1283.41
 OD20859,18-11-2024,Fashion,Handbag,Gujarat,2,4797.34,20,Cancelled,Debit Card,Mobile App,7675.74
-OD20860,26-07-2024,Beauty,Sunscreen,West Bengal,5,3656.2,0,Cancelled,Wallet,Mobile App,18281.0
+OD20860,26-07-2024,Beauty,Sunscreen,West Bengal,5,3656.2,0,Cancelled,Wallet,Mobile App,18281
 OD20861,19-04-2024,Beauty,Sunscreen,West Bengal,2,214.86,20,Delivered,UPI,Mobile App,343.78
 OD20862,23-08-2024,Beauty,Sunscreen,West Bengal,1,1182.6,10,Delivered,UPI,Website,1064.34
 OD20863,27-12-2024,Books,Notebook,West Bengal,3,572.31,0,Delivered,Wallet,Mobile App,1716.93
@@ -870,7 +870,7 @@ OD20868,04-12-2024,Home,Curtain,Delhi,1,6893.57,20,Delivered,Credit Card,Website
 OD20869,18-10-2024,Fashion,T-Shirt,Tamil Nadu,5,2281.39,10,Delivered,Wallet,Website,10266.25
 OD20870,06-04-2024,Fashion,Sneakers,Tamil Nadu,5,3639.26,10,Pending,Wallet,Mobile App,16376.67
 OD20871,17-09-2024,Home,Curtain,Tamil Nadu,4,7789.26,0,Returned,UPI,Mobile App,31157.04
-OD20872,30-11-2024,Home,Wall Clock,Rajasthan,1,6848.0,0,Delivered,Credit Card,Mobile App,6848.0
+OD20872,30-11-2024,Home,Wall Clock,Rajasthan,1,6848,0,Delivered,Credit Card,Mobile App,6848
 OD20873,05-11-2024,Beauty,Sunscreen,West Bengal,2,848.46,15,Pending,Wallet,Website,1442.38
 OD20874,15-10-2024,Electronics,Earbuds,Maharashtra,1,2246.25,5,Pending,Wallet,Mobile App,2133.94
 OD20875,23-02-2024,Beauty,Face Wash,West Bengal,2,3328.59,20,Pending,COD,Mobile App,5325.74
@@ -1040,7 +1040,7 @@ OD21038,09-04-2024,Beauty,Sunscreen,Maharashtra,1,3620.72,15,returned,COD,Mobile
 OD21039,14-12-2024,Books,Guide Book,Rajasthan,4,2729.83,10,Returned,COD,Website,9827.39
 OD21040,31-05-2024,Books,Guide Book,Gujarat,1,6042.73,0,Returned,Credit Card,Mobile App,6042.73
 OD21041,22-03-2024,Books,Notebook,UP,4,2149.64,20,Delivered,Credit Card,Mobile App,6878.85
-OD21042,07-04-2024,Beauty,Perfume,Gujarat,4,7337.5,0,Cancelled,COD,Mobile App,29350.0
+OD21042,07-04-2024,Beauty,Perfume,Gujarat,4,7337.5,0,Cancelled,COD,Mobile App,29350
 OD21043,31-05-2024,Fashion,Jeans,DELHI,4,2047.72,0,Pending,Credit Card,Website,8190.88
 OD21044,21-11-2024,Electronics,Power Bank,Rajasthan,2,2441.16,15,Pending,Debit Card,Website,4149.97
 OD21045,16-10-2024,Home,Wall Clock,West Bengal,6,1075.74,0,Delivered,Debit Card,Mobile App,6454.44
